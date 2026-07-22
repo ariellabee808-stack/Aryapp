@@ -1,0 +1,10 @@
+{
+  "name": "Ariella AI",
+  "description": "A super-intelligent AI chatbot created by Ariella Agnes featuring deep reasoning, web grounding, and an ultra-polished cognitive interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
